@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257478187517",
+    "project_id": "tsaranfood",
+    "storage_bucket": "tsaranfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257478187517:android:af7b3ac42627ae99f3e194",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxXcCvWgM2IW80g8l0sLjEgPXxNO2F_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
