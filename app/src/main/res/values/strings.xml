@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="vredin_food_intro">Welcome to Vredin Food</string>
+    <string name="vredin_food_description">
+        Shared and delightful for an easy and enjoyable food ordering experience.
+    </string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="vredin_login">Vredin</string>
+    <string name="food_login">Food</string>
+    <string name="login_email">Email address</string>
+    <string name="login_password">Password</string>
+    <string name="forgot_password">Forget password?</string>
+    <string name="or">OR</string>
+    <string name="not_user">You aren\'t a user?\ </string>
+    <string name="welcome">Welcome</string>
+    <string name="vladimir_vedin">Vladimir Vedin</string>
+    <string name="search_food">Search food...</string>
+    <string name="today_s_best_foods">Today\'s best Foods</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="title">title</string>
+    <string name="time">time</string>
+    <string name="_0">$0</string>
+    <string name="_40">$40</string>
+    <string name="_5_rating">5 Rating</string>
+    <string name="_15_min">15 min</string>
+    <string name="description">Indulge in comfort with the Chili Cheese Dog, a hearty delight boasting a beef hot dog smothered in rich chili, melted cheddar cheese, and diced onions. Indulge in comfort with the Chili Cheese Dog, a hearty delight boasting a beef hot dog smothered in rich chili, melted cheddar cheese, and diced onions.</string>
+    <string name="quantity">Quantity</string>
+    <string name="total_price">Total Price</string>
+    <string name="enter_your_promo_code">Enter Your Promo Code</string>
+    <string name="order_summary">Order summary</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="bucks_placeholder">$-</string>
+    <string name="total">Total</string>
+    <string name="place_an_order">Place an Order</string>
+    <string name="your_cart_is_empty">Your cart is Empty</string>
+</resources>
