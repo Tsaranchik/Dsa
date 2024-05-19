@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">FoodApp</string>
+    <string name="app_name">Vredin Food</string>
     <string name="vredin_food_intro">Welcome to Vredin Food</string>
     <string name="vredin_food_description">
         Shared and delightful for an easy and enjoyable food ordering experience.
     </string>
     <string name="login">Login</string>
     <string name="signup">Sign up</string>
-    <string name="vredin_login">Vredin</string>
+    <string name="vredin_login">Vredin</string>g
     <string name="food_login">Food</string>
     <string name="login_email">Email address</string>
     <string name="login_password">Password</string>
